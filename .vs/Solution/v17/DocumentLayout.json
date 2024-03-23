@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|solutionrelative:data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBCACDC-1D8E-4DCF-BE7C-9E84BCD9461A}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDBCACDC-1D8E-4DCF-BE7C-9E84BCD9461A}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4C52B5-D512-4F2C-BD58-2454C808A56B}|Business\\Business.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F4C52B5-D512-4F2C-BD58-2454C808A56B}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\data\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57124AB8-7073-4077-80BE-7D80D6A80FFA}|Data\\Data.csproj|solutionrelative:data\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|c:\\users\\ksnge\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\kursova rabota\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8B3CFF-74FD-4381-A259-756C5D212FC9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T11:47:58.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T11:47:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T11:47:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T11:47:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T11:47:36.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Data\\ProductContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T11:47:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T07:43:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\Data\\Model\\Product.cs",
+              "RelativeToolTip": "Data\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:43:21.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:42:28.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T07:42:27.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T07:36:25.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAMcDAAAAAAAAAAAWwNkDAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-18T07:36:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:34:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:33:56.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T07:26:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T07:26:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:25:33.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:25:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ksnge\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KURsova rabota\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:25:08.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
